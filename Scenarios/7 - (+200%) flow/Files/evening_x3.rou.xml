@@ -1,0 +1,45 @@
+<routes>
+<vType id="car" accel="2.6" decel="4.5" sigma="0.6" tau="1.2" />
+<flow id="evening_0" from="667958216" to="1420264372#1" vehsPerHour="1920" begin="0" end="3600" />
+<flow id="evening_1" from="667958216" to="174299621" vehsPerHour="2880" begin="0" end="3600" />
+<flow id="evening_2" from="667958216" to="751413553" vehsPerHour="2880" begin="0" end="3600" />
+<flow id="evening_3" from="667958216" to="721607116" vehsPerHour="5850" begin="0" end="3600" />
+<flow id="evening_4" from="667958216" to="84751021" vehsPerHour="2400" begin="0" end="3600" />
+<flow id="evening_5" from="667958216" to="835094679#8" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_6" from="1420264373" to="667961042" vehsPerHour="1920" begin="0" end="3600" />
+<flow id="evening_7" from="1420264373" to="174299621" vehsPerHour="7200" begin="0" end="3600" />
+<flow id="evening_8" from="1420264373" to="751413553" vehsPerHour="2880" begin="0" end="3600" />
+<flow id="evening_9" from="1420264373" to="721607116" vehsPerHour="1920" begin="0" end="3600" />
+<flow id="evening_10" from="1420264373" to="84751021" vehsPerHour="2400" begin="0" end="3600" />
+<flow id="evening_11" from="1420264373" to="835094679#8" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_12" from="218207734" to="667961042" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_13" from="218207734" to="1420264372#1" vehsPerHour="3000" begin="0" end="3600" />
+<flow id="evening_14" from="218207734" to="751413553" vehsPerHour="2800" begin="0" end="3600" />
+<flow id="evening_15" from="218207734" to="721607116" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_16" from="218207734" to="84751021" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_17" from="218207734" to="835094679#8" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_18" from="368327489" to="667961042" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_19" from="368327489" to="1420264372#1" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_20" from="368327489" to="174299621" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_21" from="368327489" to="721607116" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_22" from="368327489" to="84751021" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_23" from="368327489" to="835094679#8" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_24" from="187782398" to="667961042" vehsPerHour="1950" begin="0" end="3600" />
+<flow id="evening_25" from="187782398" to="1420264372#1" vehsPerHour="640" begin="0" end="3600" />
+<flow id="evening_26" from="187782398" to="174299621" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_27" from="187782398" to="751413553" vehsPerHour="960" begin="0" end="3600" />
+<flow id="evening_28" from="187782398" to="84751021" vehsPerHour="800" begin="0" end="3600" />
+<flow id="evening_29" from="187782398" to="835094679#8" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_30" from="84751023" to="667961042" vehsPerHour="2400" begin="0" end="3600" />
+<flow id="evening_31" from="84751023" to="1420264372#1" vehsPerHour="2400" begin="0" end="3600" />
+<flow id="evening_32" from="84751023" to="174299621" vehsPerHour="2880" begin="0" end="3600" />
+<flow id="evening_33" from="84751023" to="751413553" vehsPerHour="9600" begin="0" end="3600" />
+<flow id="evening_34" from="84751023" to="721607116" vehsPerHour="12000" begin="0" end="3600" />
+<flow id="evening_35" from="84751023" to="835094679#8" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_36" from="-835094679#8" to="667961042" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_37" from="-835094679#8" to="1420264372#1" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_38" from="-835094679#8" to="174299621" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_39" from="-835094679#8" to="751413553" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_40" from="-835094679#8" to="721607116" vehsPerHour="10" begin="0" end="3600" />
+<flow id="evening_41" from="-835094679#8" to="84751021" vehsPerHour="10" begin="0" end="3600" />
+</routes>
